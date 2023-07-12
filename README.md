@@ -71,6 +71,9 @@ import file_url_list
 
 18. The script execution ends.
 
+19. Run the script using the following command:
+    python main.py
+
 Please ensure that the `file_url_list` module is properly defined and contains the necessary URLs and paths for downloading the files.
 
 Feel free to modify the code and adapt it to your specific requirements.
